@@ -1,0 +1,5 @@
+# To install numpy in your terminal 
+
+# USE pip install -r requirements.txt
+
+numpy==1.26.4
