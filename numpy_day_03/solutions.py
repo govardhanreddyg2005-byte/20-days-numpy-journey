@@ -3,7 +3,7 @@ Day 3 Solutions
 """
 import numpy as np
 
-'''print("--- Solution 1 ---")
+print("--- Solution 1 ---")
 arr_1d = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90])
 ans_1 = arr_1d[2:7:2]
 print(ans_1) # [30 50 70]
@@ -21,7 +21,7 @@ print(ans_2) # 5
 print("\n--- Solution 3 ---")
 ans_3 = matrix[1:, 1:]
 print(ans_3)
-'''
+
 
 a = [1,2,3,4]
 
