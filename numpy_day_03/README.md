@@ -1,30 +1,16 @@
-#  Day 2: Array attributes in NumPy
+# Day 3: Indexing & Slicing
 
-Today covers the absolute fundamentals of finding array attributes in NumPy. Numpy attributes are used to find the properties
-and metadata of the given array, normal attributes such as (`.shape`,`.size`,`.ndim`,`.dtype`,`.nbytes`).
+Today focuses on extracting exactly the data you need from 1D and 2D arrays. NumPy utilizes advanced slicing syntax that avoids creating unnecessary copies in memory, making data extraction incredibly fast.
 
-## Attributes covered
+## Concepts Covered
 
-## 1. Finding the shape of the Array (`.shape).
+### 1. 1D Array Slicing
+* Syntax: `array[start:stop:step]`
+* Just like Python lists, the `stop` index is exclusive.
 
-.shape is an attribute that used finds the array shape specified with dimensions.
+### 2. 2D Matrix Indexing
+* Syntax: `matrix[row_index, column_index]`
+* Use a comma to separate row operations from column operations.
 
-* **Syntax:** `arr.shape`
-
-## 3. Finding the size of the Array (`.size).
-.size is an attribute that used finds the array size of an given existing array.
-
-* **Syntax:** `arr.size`
-
-## 4. Finding the dimensions of the Array (`.ndim).
-.ndim is an attribute that used finds the no of dimensions in an given array.
-
-* **Syntax:** `arr.ndim`
-
-## 5. Finding the datatype and no of bytes of the Array (`.nbytes`, `.dtype`).
-.dtype is an attribute that used finds the type of an given array that holds.Default is float we can manipulate
-the datatype to an int or str using `dtype=datatype`.
-.nbytes used to finds the bytes of an existing array.
-
-* **Syntax:** `arr.dtype`
-* **Syntax:** `arr.nbytes`
+### 3. Strides (Skipping Steps)
+* Using the third argument (`step`) lets you skip elements or reverse arrays efficiently.
