@@ -21,14 +21,3 @@ print(ans_2) # 5
 print("\n--- Solution 3 ---")
 ans_3 = matrix[1:, 1:]
 print(ans_3)
-
-
-a = [1,2,3,4]
-
-b = [5,6,7,8]
-
-arr = np.array(a).reshape(1,4)
-
-arr1 = np.array(b).reshape(1,4)
-
-print(np.floor_divide(arr, arr1))
