@@ -7,7 +7,7 @@
 A broadcasting is a powerful mechanism that allows us to perform arithmetic operations on two or more arrays with different shapes and dimensions.This concept that used to perform broadcasting operations incredibly fast by two compatible arrays.
 This mechanism is very important in machine learning for complex matrix operations, not all arrays are broadcastable we want to make some changes to our shapes and perform rules to be compatible by stretching smaller array virtually as same size of larger array.
 
-## Rules to perform before performing operations.
+## Rules to apply before performing operations.
 
 Rule 1: Check always shape of two arrays before operations.
 
