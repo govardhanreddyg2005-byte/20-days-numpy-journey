@@ -38,6 +38,6 @@ Since we have same size in column side but not satisfies row side rule.In that c
 
 ## Strategies to Prevent Broadcasting.
 
-** Use transpose function ```(.transpose() or .T)``` to inverse the arrays elements.
-** Use ```np.newaxis``` to increase the dimension of an smaller array by row side ```[np.newaxis, :]``` and column side ```[:, np.newaxis]```
-** Use ```reshape()``` method to manipulate arrays into compatible arrays.
+**  *Use transpose function ```(.transpose() or .T)``` to inverse the arrays elements.
+**  *Use ```np.newaxis``` to increase the dimension of an smaller array by row side ```[np.newaxis, :]``` and column side ```[:, np.newaxis]```
+**  *Use ```reshape()``` method to manipulate arrays into compatible arrays.
