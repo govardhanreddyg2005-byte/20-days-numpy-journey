@@ -36,3 +36,4 @@ y = np.array([1, 2, 3]).reshape(3,1)[np.newaxis, :].shape
 
 print(x)
 print(y)
+
