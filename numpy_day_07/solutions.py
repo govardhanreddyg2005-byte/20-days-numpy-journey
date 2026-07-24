@@ -1,5 +1,5 @@
 """
-Day 10: Extremas & Sorting - Solutions
+Day 07: Extremas & Sorting - Solutions
 """
 
 import numpy as np
@@ -45,4 +45,4 @@ print(sorted_student_scores)
 print("\nExpected Array Shape:")
 print("[[72 88 95]\n [64 70 91]\n [82 85 99]]")
 
-print("\n[SUCCESS] Day 10 checks passed with zero errors.")
+print("\n[SUCCESS] Day 07 checks passed with zero errors.")
