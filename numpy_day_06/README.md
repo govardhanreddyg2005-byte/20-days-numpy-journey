@@ -1,4 +1,4 @@
-# Day 09: Statistical Reductions
+# Day 06: Statistical Reductions
 
 NumPy provides highly optimized functions to compute descriptive statistics. Understanding how to perform reductions globally or across specific dimensional axes is vital for aggregating and summarizing matrix data.
 
