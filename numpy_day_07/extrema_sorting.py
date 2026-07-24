@@ -1,5 +1,5 @@
 """
-Day 10: Extremas & Sorting
+Day 07: Extremas & Sorting
 Concept: Finding values, tracking indices, and sorting arrays using NumPy.
 """
 
