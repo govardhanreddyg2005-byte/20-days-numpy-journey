@@ -1,5 +1,5 @@
 """
-Day 10: Extremas & Sorting - Exercises
+Day 07: Extremas & Sorting - Exercises
 
 Instructions:
 1. Complete the tasks below using clean, fundamental NumPy operations.
