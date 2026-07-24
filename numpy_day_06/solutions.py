@@ -1,5 +1,5 @@
 """
-Day 09: Statistical Reductions - Solutions
+Day 06: Statistical Reductions - Solutions
 """
 
 import numpy as np
