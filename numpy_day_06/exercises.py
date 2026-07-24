@@ -1,5 +1,5 @@
 """
-Day 09: Statistical Reductions - Exercises
+Day 06: Statistical Reductions - Exercises
 
 Instructions:
 1. Complete the tasks below without using native Python loops (for/while).
