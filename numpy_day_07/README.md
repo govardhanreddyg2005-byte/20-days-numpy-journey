@@ -1,4 +1,4 @@
-# Day 10: Extremas & Sorting
+# Day 07: Extremas & Sorting
 
 Locating maximum or minimum values and ordering data are fundamental operations in data processing. NumPy offers built-in tools to find values, track their exact positions, and sort structures efficiently.
 
