@@ -1,5 +1,5 @@
 """
-Day 09: Statistical Reductions
+Day 06: Statistical Reductions
 Concept: Computing aggregations across specific axes using NumPy.
 """
 
